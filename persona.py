@@ -3,7 +3,7 @@ import requests
 import json
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Define persona prompt (same as before)
 persona_prompt = "Imagine you are Lisa, a highly advanced AI assistant specifically built to cater to the needs of students..."
